@@ -1,6 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [Personal Webpage of Michaela Kümpel]
-#description: [A short description of your site's purpose]
+title: Webpage of Michaela Kümpel
+#description: Cayman is a clean, responsive theme for GitHub Pages.
+#show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
