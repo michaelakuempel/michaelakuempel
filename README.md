@@ -1,3 +1,5 @@
+This will be my new personal page
+
 - 👋 Hi, I’m @michaelakuempel
 - 👀 I’m interested in Knowledge Representation and Web Knowledge Acquisition for creation of Knowledge Graphs. 
 - 👀 I’m also interested in Augmented Reality applications for HoloLens, Smartphone and Google glass.
